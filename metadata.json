@@ -1,0 +1,7 @@
+{
+  "name": "Morphing Particle Hands",
+  "description": "A high-performance 3D particle system controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
